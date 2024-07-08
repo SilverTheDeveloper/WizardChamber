@@ -29,7 +29,7 @@ export default function SimpleSlider() {
 
      
       <div >
-        <img className="rounded-t-md"  src="../../public/corsoal pics/1.jpg" alt="" />
+        <img className="rounded-t-md"  src="./corsoal pics/1.jpg" alt="" />
         <div className="glass rounded-b-md text-center  font-bold">
         Hogwarts Icon: Enchanted Letter Brings Wizarding World to Life 
         </div>
