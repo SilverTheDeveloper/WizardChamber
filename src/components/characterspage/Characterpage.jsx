@@ -11,7 +11,7 @@ useEffect(() => {
     
     const getcharacters= async()=>{
         try {
-            const res=await axios.get("https://wizardchamberback-2.onrender.com/characters");
+            const res=await axios.get("https://wizardchamberback-3.onrender.com/characters");
             console.log(res.data);
             setchar(res.data);
         } catch (error) {
